@@ -1,6 +1,7 @@
 ## JaronLian
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaronLian&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaronLian)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaronLian&show_icons=true&locale=en" alt="JaronLian" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaronLian&show_icons=true&locale=en&layout=compact" alt="JaronLian" />
+
 <!--
 **JaronLian/JaronLian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
